@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,500;1,200&display=swap');
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    font-size: 1rem;
+}
+.main-wrapper{
+    padding: 4rem;
+}
+.main-wrapper > div {
+    margin-bottom: 1rem;
+}
+.main-wrapper .label{
+    background-color: rgb(196, 196, 196);
+    display: inline-block;
+    font-weight: 700;
+}
+.main-wrapper .upper{
+    text-transform: uppercase;
+}
+.main-wrapper .skill ul, .main-wrapper .lang ul{
+    margin-left: 2rem;
+}
+.info-sec-1{
+    display: flex;
+    justify-content: space-between;
+}
+.info-sec-1 .cv-image{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    
+}
+.info-sec-1 .title, .info-sec-1 .name{
+    text-transform: uppercase;
+    font-family: 'Poppins', 'Medium 500';
+}
+.info-sec-1 .name{ font-weight: 900;}
+
+.personal-info .p-info{
+    display: grid;
+    grid-template-columns: 11rem 2rem 15rem;
+}
+.personal-info .p-info .item1 {
+    width: 10rem;
+}
+.personal-info .p-info .item2 {
+    width: 2rem;
+}
+.personal-info .p-info .item3 {
+    width: 20rem;
+}
+.sign{ 
+    display: flex;
+    flex-direction: row;
+    width: 100px;
+    margin-top: 3rem;
+}
+.sign-field{
+    padding: 0 5rem;
+    border-bottom: 1px solid black;
+} */
